@@ -107,8 +107,8 @@ OVSE northbound는 다음과 같은 REST API를 제공합니다. 상세한 내�
 
 .. rst-class:: text-align-justify
 
-SA: System Admin
-CA: Company Admin
+SA: System Admin, 
+CA: Company Admin,
 D: Director
 
 .. _api-specification_entity-registration:
